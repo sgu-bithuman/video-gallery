@@ -1,9 +1,10 @@
 # Video Gallery Web Application
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0g5sdIhORIk/0.jpg)](https://www.youtube.com/watch?v=0g5sdIhORIk)
 
 ## Description
 
-This Video Gallery is a dynamic, interactive web application built with React. It allows users to upload, view, and manage their video collection in various layouts. The application features a responsive design, drag-and-drop functionality, and multiple viewing modes to enhance the user experience.
+This Video Gallery is a dynamic, interactive web application built with React. It allows users to upload, view, and manage their video collection in various layouts. The application features a responsive design, drag-and-drop functionality, and multiple viewing modes to enhance the user experience. Click image below for video demo:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0g5sdIhORIk/0.jpg)](https://www.youtube.com/watch?v=0g5sdIhORIk)
 
 ## Demo
 Try online demo: https://sgu-bithuman.github.io/video-gallery/
