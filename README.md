@@ -6,8 +6,8 @@ This Video Gallery is a dynamic, interactive web application built with React. I
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0g5sdIhORIk/0.jpg)](https://www.youtube.com/watch?v=0g5sdIhORIk)
 
-## Demo
-Try online demo: https://sgu-bithuman.github.io/video-gallery/
+## Try Online Demo
+https://sgu-bithuman.github.io/video-gallery/
 
 ## Features
 
