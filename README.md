@@ -4,6 +4,9 @@
 
 This Video Gallery is a dynamic, interactive web application built with React. It allows users to upload, view, and manage their video collection in various layouts. The application features a responsive design, drag-and-drop functionality, and multiple viewing modes to enhance the user experience.
 
+## Demo
+Try online demo: https://sgu-bithuman.github.io/video-gallery/
+
 ## Features
 
 - Multiple layout options: Masonry, Split Screen, Slideshow, and Circle
