@@ -19,7 +19,7 @@ This Video Gallery is a dynamic, interactive web application built with React. I
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/video-gallery.git
+   git clone https://github.com/sgu-bithuman/video-gallery.git
    ```
 
 2. Navigate to the project directory:
